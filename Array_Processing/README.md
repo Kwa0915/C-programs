@@ -67,6 +67,6 @@ This tool collapses an *n x m* matrix into an array of size *m* by summing all e
 
 The puzzle involves a colletion of numbers drawn around a circle. To solve the puzzle, 5 lines were drawn from the circle to the outside, dividing the numbers into five groups. Each group must have the same summation. An example is shown below.
 
-![Circle Division Problem Example](/circle/Example.png)
+![Circle Division Problem Example](circle/Example.png)
 
 ###### Assignment 3 CSCE155E Fall 2019 - Prof. Chris Bourke
